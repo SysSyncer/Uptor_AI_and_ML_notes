@@ -1,0 +1,8 @@
+scikit-learn
+statsmodels
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+scikit-optimize
