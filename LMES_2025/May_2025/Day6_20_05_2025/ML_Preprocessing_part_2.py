@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("diamonds.csv")
+df = pd.read_csv("../../Dataset/Diamonds/diamonds.csv")
 print(df.head())
 
 finding_null_count = df.isna().sum()
